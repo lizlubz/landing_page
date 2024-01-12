@@ -1,3 +1,18 @@
+body {
+  font-family: roboto;
+}
+
 div.hero {
-  background-color: #1f2937
+  background-color: #1f2937;
+}
+
+div.header {
+  color: #fff;
+  align: left;
+}
+
+div.hero_links {
+  color: #fff;
+  text-decoration: none;
+  align: right;
 }
